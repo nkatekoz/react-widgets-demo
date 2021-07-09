@@ -39,7 +39,7 @@ const Translate = () => {
 
             <div className="field">
 
-                <label>Enter Text to translate</label>
+                <label>Enter Text to translate 11</label>
 
                 <input
                     type="text"
